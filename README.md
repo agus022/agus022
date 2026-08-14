@@ -68,10 +68,6 @@ Computer Systems Engineer with two years of experience in full-stack software de
 ## 📊GitHub Stats
 
 
-<div align="center">
 
-[![](https://github-readme-stats.vercel.app/api?username=agus022&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/agus022)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=agus022&theme=material-palenight)](https://github.com/agus022)
-</div>
 
 
