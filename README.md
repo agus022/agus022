@@ -65,9 +65,6 @@ Computer Systems Engineer with two years of experience in full-stack software de
 </a>
 </span>
 
-## 📊GitHub Stats
-
-
 
 
 
