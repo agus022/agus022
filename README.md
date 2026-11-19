@@ -52,19 +52,5 @@ Computer Systems Engineer with two years of experience in full-stack software de
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </span>
 
-## 👤Check out my Social Media
-<span> 
-<a href="https://www.instagram.com/agustin_flores.__/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.facebook.com/jorgeagustin.floressilva">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-</a>
-<a href="agustin.floressilva022@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</span>
-
-
 
 
